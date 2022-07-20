@@ -28,7 +28,7 @@ jekyll_admin:
   homepage: "pages"
   
 authors:
-    sal:
+    manjunath:
       name:           Manjunath
       site:           https://kalburgimanjunath.github.io
       avatar:         /assets/images/avatar1.jpg
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: manjunath
       avatar: /assets/images/avatar1.jpg
       
   # all pages

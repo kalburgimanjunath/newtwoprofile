@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How to create Filter / search in reactjs
-author: jane
+author: manjunath
 categories:
-  - Jekyll
   - tutorial
 image: assets/images/6.jpg
 tags: featured

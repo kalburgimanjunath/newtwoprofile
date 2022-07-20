@@ -1,0 +1,25 @@
+---
+published: false
+---
+## Sample React Projects for Demo
+- Task manager
+- Hospital Management System
+- Medical Document Recorder
+- Petrol Pump
+- Medical Store
+- Library
+- [Music Player](https://react-fmsywu.stackblitz.io/dashboard)
+- Ideas Generator
+- Lean idea submittion
+- Daily Planner
+- Budget Planner
+- Website to App Converter
+- Design Editor
+- Traffic Analyzer
+- Connecting to other Friends
+- Freelancer Website
+- Money making website blog
+- Course Content Creator & Publisher
+- Converter from text to youtube videos
+- Blog to make you ready for oversees opportunity
+- Self Learning Site

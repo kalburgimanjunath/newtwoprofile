@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "Welcome to my site!"
-categories: [ MySite ]
+title: Zumba Player
+categories:
+  - MySite
 image: assets/images/demo1.jpg
+published: true
 ---
+Player to display Zumba playlist Videos
 
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Manjunath')
-#=> prints 'Hi, Manjunath' to STDOUT.
-{% endhighlight %}
-
+[Link](https://react-okftke.stackblitz.io/dashboard)

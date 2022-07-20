@@ -11,11 +11,11 @@ published: true
 Created a player which displays videos from many sources and with this tool you can only focus on value added videos.
 Let me tell you how to create simple filter like google in reactjs. I have used stackblitz to react the project its pretty simple go to stackblitz and select react javascript project you will land into the react javascript project.
 
-![]({{site.baseurl}}/https://miro.medium.com/max/1400/1*4FWhtNxeu3XvEWeA4DSFfA.png)
+![200]({{site.baseurl}}/https://miro.medium.com/max/1400/1*4FWhtNxeu3XvEWeA4DSFfA.png)
 Once clicked react(javascript) your project folder looks like this.
-![]({{site.baseurl}}/https://miro.medium.com/max/700/1*8Whh2DN-SrAYRCs6Qm9MOA.png)
+![200]({{site.baseurl}}/https://miro.medium.com/max/700/1*8Whh2DN-SrAYRCs6Qm9MOA.png)
 Create components folder to add your components and css for holding your css. Open App.js and edit the file. 
-![]({{site.baseurl}}/https://miro.medium.com/max/700/1*zm_qyT8DXfDhHy91p3vRKQ.png)
+![200]({{site.baseurl}}/https://miro.medium.com/max/700/1*zm_qyT8DXfDhHy91p3vRKQ.png)
 Add following code
 ![]({{site.baseurl}}/https://miro.medium.com/max/623/1*q833u8FQ4wBusWob4CIRug.png)
 Let me explain you what I have did, Added BrowserRouter for Link tag and added Element Added Search component.

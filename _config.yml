@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: manjunath
+      author: sal
       avatar: /assets/images/avatar1.jpg
       
   # all pages

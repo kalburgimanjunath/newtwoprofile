@@ -1,27 +1,34 @@
 ---
 layout: post
-title:  "Markdown Example"
+title: How to create Filter / search in reactjs
 author: jane
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/6.jpg
 tags: featured
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
+Created a player which displays videos from many sources and with this tool you can only focus on value added videos.
+Let me tell you how to create simple filter like google in reactjs. I have used stackblitz to react the project its pretty simple go to stackblitz and select react javascript project you will land into the react javascript project.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![]({{site.baseurl}}/https://miro.medium.com/max/1400/1*4FWhtNxeu3XvEWeA4DSFfA.png)
+Once clicked react(javascript) your project folder looks like this.
+![]({{site.baseurl}}/https://miro.medium.com/max/700/1*8Whh2DN-SrAYRCs6Qm9MOA.png)
+Create components folder to add your components and css for holding your css. Open App.js and edit the file. 
+![]({{site.baseurl}}/https://miro.medium.com/max/700/1*zm_qyT8DXfDhHy91p3vRKQ.png)
+Add following code
+![]({{site.baseurl}}/https://miro.medium.com/max/623/1*q833u8FQ4wBusWob4CIRug.png)
+Let me explain you what I have did, Added BrowserRouter for Link tag and added Element Added Search component.
 
-Jekyll also offers powerful support for code snippets:
+### Part 2.
+Create 2 files in components folder Search with Search.js Avatar with Avatar.js to hold user information
+![]({{site.baseurl}}/https://miro.medium.com/max/510/1*XgCeUrHMLpyZQTy5n7dHHA.png)
+## Search with search.js
+![]({{site.baseurl}}/https://miro.medium.com/max/593/1*CET-OAjQtJBOcN12ZuF_sw.png)
+Let me explain the code, created users array to hold the users api data and player to hold the search box data. I am using UseEffect react hook to fetch the data from API and setting up that in users array object with setUsers function. onChange store my search parameter inside player variable with setPlayer function. Final part to render my html and values
+![]({{site.baseurl}}/https://miro.medium.com/max/628/1*ttNG9-dUYXCY2_G2T2L6TA.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Final result looks like this. https://react-d1dyj6.stackblitz.io
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![]({{site.baseurl}}/https://miro.medium.com/max/408/1*e3ZzAI3-RaAIIjrncnHbXQ.png)

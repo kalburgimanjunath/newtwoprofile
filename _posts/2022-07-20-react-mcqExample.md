@@ -10,6 +10,7 @@ tags: featured
 ## Building MCQ react simple app with sample code
 
 In this article I am going to build a sample application to build react MCQ example.
+[Demo](https://stackblitz.com/edit/react-dcpqg2)
 ```
 import React from 'react';
 import './style.css';

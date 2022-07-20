@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+author: manjunath
+categories:
+  - projects
+image: assets/images/6.jpg
+tags: featured
 ---
 ## Building MCQ react simple app with sample code
 

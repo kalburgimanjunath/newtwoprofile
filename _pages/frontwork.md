@@ -1,4 +1,4 @@
 layout: page-sidebar
-permalink: /about.html
+permalink: /frontwork.html
 image: /assets/images/screenshot.jpg
 comments: true

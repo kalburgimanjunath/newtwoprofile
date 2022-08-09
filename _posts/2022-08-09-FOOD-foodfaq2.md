@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+author: manjunath
+categories:
+  - FOOD
+image: assets/images/6.jpg
+tags: featured
 ---
 Mozzarella cheese
 In America today, mozzarella is the cheese of choice for pizza, lasagna & other baked Italian-American dishes. It Italy, mozzarella has a long and venerable tradition. Originally made by monks from buffalo milk, this soft cheese can also be made with cow's milk. Fried cheese is often composed with mozzarella. Fresh mozzarella is sometimes paired with tomatoes for salads and appetizers. Smoked varieties exist as well.

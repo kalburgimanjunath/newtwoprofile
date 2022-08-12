@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-author: manjunath
+author: Manjunath
 categories:
   - FOOD
 image: assets/images/6.jpg

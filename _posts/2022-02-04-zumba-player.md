@@ -5,6 +5,7 @@ categories:
   - MySite
 image: assets/images/demo1.jpg
 published: true
+author: Manjunath
 ---
 Player to display Zumba playlist Videos
 

@@ -10,7 +10,7 @@ published: true
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
                 <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.sal.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.sal.site }}">{{ site.authors.Manjunath.site }}</a></p>
+                <p><a href="{{ site.authors.sal.site }}">{{ site.authors.Manav.site }}</a></p>
                 <p class="excerpt">{{ site.authors.sal.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
@@ -18,7 +18,7 @@ published: true
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","Manjunath" %}
+            {% assign posts = site.posts | where:"author","Manav" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}

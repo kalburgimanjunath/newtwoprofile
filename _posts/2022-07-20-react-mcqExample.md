@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-author: manjunath
+author: Manjunath
 categories:
   - projects
 image: assets/images/6.jpg

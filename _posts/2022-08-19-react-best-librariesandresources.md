@@ -3,7 +3,7 @@ published: false
 layout: post
 author: Manjunath
 categories:
-  - FOOD
+  - 'reactjs,javascript'
 image: assets/images/6.jpg
 tags: featured
 ---

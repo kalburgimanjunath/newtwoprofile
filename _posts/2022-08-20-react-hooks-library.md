@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+author: Manjunath
+categories:
+  - 'javascript,reactjs'
+image: assets/images/6.jpg
+tags: 'featured,stories'
 ---
 ---
 published: true

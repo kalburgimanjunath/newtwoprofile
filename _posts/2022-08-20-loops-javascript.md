@@ -39,21 +39,21 @@ There are various types of loops we can utilize in JavaScript.
         }
 
 
-for (key in object) {
-  // code block to be executed
-}
+        for (key in object) {
+          // code block to be executed
+        }
 
-for ( let key in country ) {
-    console.log(`${key} = ${country[key]}`);
-}
+        for ( let key in country ) {
+            console.log(`${key} = ${country[key]}`);
+        }
 
-for (variable of iterable) {
-  // code block to be executed
-}
+        for (variable of iterable) {
+          // code block to be executed
+        }
 
-for(const [key, value] of romanNumerals.entries()) {
-  console.log(`${key} in Roman Numerals is  ${value}`);
-}
+        for(const [key, value] of romanNumerals.entries()) {
+          console.log(`${key} in Roman Numerals is  ${value}`);
+        }
 
 That's it for this article.
 

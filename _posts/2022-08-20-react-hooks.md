@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 author: Manjunath
 categories:
   - tutorial

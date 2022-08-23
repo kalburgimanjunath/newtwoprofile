@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 layout: post
 author: Manjunath
 categories:
-  - jobs
+  - Tutorials
 image: assets/images/6.jpg
 ---
 #Learn for free:

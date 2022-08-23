@@ -12,4 +12,4 @@ Location - Permanent Work From Home
 Salary - 4 LPA - 6 LPA
 Laptop Kit Will be Provided By Company
 
-( Make Sure to Hit the Like Button And Drop a Comment )
+[Apply](https://lnkd.in/g8mft8Dv)

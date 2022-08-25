@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Manjunath
+categories:
+  - tutorial
+image: assets/images/6.jpg
 ---
 ## Some of the best YouTube Channels for Learning DSA ✨
 

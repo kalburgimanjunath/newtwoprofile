@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Manjunath
 categories:
@@ -19,4 +19,3 @@ image: assets/images/6.jpg
 - Practice art of self love.
 - Do something you always wanted to. Don't fear judgment.
 - Avoid being with those who don't make you feel nice about yourself.
-

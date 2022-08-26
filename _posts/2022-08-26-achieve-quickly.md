@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Manjunath
+categories:
+  - life
+image: assets/images/6.jpg
 ---
 ## How you can save your life and achieve something quickly.
 

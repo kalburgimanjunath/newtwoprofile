@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Manjunath
+categories:
+  - jobs
+image: assets/images/6.jpg
 ---
 ## How to find a remote job:
 
